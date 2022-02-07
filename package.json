@@ -1,0 +1,16 @@
+{
+  "name": "seleniummochatest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^97.0.4",
+    "mocha": "^9.2.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
